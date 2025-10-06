@@ -19,8 +19,6 @@ altura = parseFloat(altura);
 area = base * altura;
 perimetro = 2 * (base + altura);
 
-// -------------------------------
 // Datos de salida
-// -------------------------------
 alert("El área del terreno es: " + area + " m²");
 alert("El perímetro del terreno es: " + perimetro + " m");
